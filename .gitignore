@@ -1,3 +1,4 @@
-Data
-Outputs
-Figures
+Data/*
+Outputs/*
+Figures/*
+!*.md
