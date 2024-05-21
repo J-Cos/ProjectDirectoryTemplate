@@ -25,3 +25,5 @@ If you want to better understand R then start with https://r4ds.hadley.nz/
 If you're looking for deeper guidance on scientific programming this guide from Prof Samrat Pawar at Imperial is excellent: https://mhasoba.github.io/TheMulQuaBio/intro.html
 
 If you are already confident with R and scientific programming and want to improve further, e.g. if you want to write more and better functions, then this is the guide for you: https://adv-r.hadley.nz/index.html
+
+A personal favourite way of thinking about common statistical tests (hint: they are all linear models): https://lindeloev.github.io/tests-as-linear
